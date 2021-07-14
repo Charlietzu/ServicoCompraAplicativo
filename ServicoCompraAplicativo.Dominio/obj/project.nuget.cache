@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4vLiDTR53VFyd5opuOcAN5lwFH1M3m/vuXBzKbXJtzoHlrlp8WTLQIaL5ZQRjLU7SMBR2sLAKwZuDuhG15Q5EQ==",
+  "dgSpecHash": "D5Ftmv+RzaWdZyKO7q0iFzWpqQ6l+eKj7z+NeDUCk6U7wGKVCjalIE36c0SLyCNFdrSPceVZrtMmldpcpSG7fA==",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\Documents\\ServicoCompraAplicativo\\ServicoCompraAplicativo.Dominio\\ServicoCompraAplicativo.Dominio.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],

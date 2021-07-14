@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zrWWLFhZ/0HMMR4XPaHsebUNOzdqrpgZS9eSbayvmkZ5aU4UYLrCw80QY1M1Hgp0QWySr08Lbwlfeig6a/DStw==",
+  "dgSpecHash": "7km/EGUVJp+z19bPznuhajuJN3ThGg5QELFIGTb9Yt8FP8M7Sp22sG1288veO/xr3yb1ty0aKk6ZNcatfI8Zsw==",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\Documents\\ServicoCompraAplicativo\\ServicoCompraAplicativo.Dados\\ServicoCompraAplicativo.Dados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",

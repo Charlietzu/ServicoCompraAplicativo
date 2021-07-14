@@ -1,6 +1,7 @@
 ﻿using ServicoCompraAplicativo.Dados.Repositories;
 using ServicoCompraAplicativo.Dados.Repositories.Interfaces;
 using ServicoCompraAplicativo.Dominio.Models;
+using ServicoCompraAplicativo.Dominio.Models.Validations;
 using ServicoCompraAplicativo.Negocio.Notifications.Interfaces;
 using ServicoCompraAplicativo.Negocio.Services.Base;
 using ServicoCompraAplicativo.Negocio.Services.Interfaces;
@@ -16,9 +17,18 @@ namespace ServicoCompraAplicativo.Negocio.Services
         {
             _clienteRepository = clienteRepository;
         }
-        public Task<bool> SalvarCliente(ClienteModel cliente)
+        public async Task<bool> SalvarCliente(ClienteModel cliente)
         {
-            throw new System.NotImplementedException();
+            if (!ExecuteValidation(new ClienteValidation(), cliente)) return false;
+
+            if(await _clienteRepository.BuscarClienteCpf(cliente.Cpf))
+            {
+                Notificate("Já existe um cliente com este Cpf informado.");
+                return false;
+            }
+
+            await _clienteRepository.SalvarCliente(cliente);
+            return true;
         }
     }
 }
