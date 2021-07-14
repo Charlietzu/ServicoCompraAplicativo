@@ -1,0 +1,12 @@
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Dados\bin\Debug\netstandard2.0\ServicoCompraAplicativo.Dados.deps.json
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Dados\bin\Debug\netstandard2.0\ServicoCompraAplicativo.Dados.dll
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Dados\obj\Debug\netstandard2.0\ServicoCompraAplicativo.Dados.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Dados\obj\Debug\netstandard2.0\ServicoCompraAplicativo.Dados.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Dados\obj\Debug\netstandard2.0\ServicoCompraAplicativo.Dados.AssemblyInfo.cs
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Dados\bin\Debug\netstandard2.0\ServicoCompraAplicativo.Dados.pdb
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Dados\bin\Debug\netstandard2.0\ServicoCompraAplicativo.Dominio.dll
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Dados\bin\Debug\netstandard2.0\ServicoCompraAplicativo.Dominio.pdb
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Dados\obj\Debug\netstandard2.0\ServicoCompraAplicativo.Dados.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Dados\obj\Debug\netstandard2.0\ServicoCompraAplicativo.Dados.csproj.CopyComplete
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Dados\obj\Debug\netstandard2.0\ServicoCompraAplicativo.Dados.dll
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Dados\obj\Debug\netstandard2.0\ServicoCompraAplicativo.Dados.pdb

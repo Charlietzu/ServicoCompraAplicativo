@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4vLiDTR53VFyd5opuOcAN5lwFH1M3m/vuXBzKbXJtzoHlrlp8WTLQIaL5ZQRjLU7SMBR2sLAKwZuDuhG15Q5EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\ServicoCompraAplicativo\\ServicoCompraAplicativo.Dominio\\ServicoCompraAplicativo.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

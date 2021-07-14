@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Negocio\obj\Debug\netstandard2.0\ServicoCompraAplicativo.Negocio.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Negocio\obj\Debug\netstandard2.0\ServicoCompraAplicativo.Negocio.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Negocio\obj\Debug\netstandard2.0\ServicoCompraAplicativo.Negocio.AssemblyInfo.cs
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Negocio\obj\Debug\netstandard2.0\ServicoCompraAplicativo.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Negocio\bin\Debug\netstandard2.0\ServicoCompraAplicativo.Negocio.deps.json
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Negocio\bin\Debug\netstandard2.0\ServicoCompraAplicativo.Negocio.dll
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Negocio\bin\Debug\netstandard2.0\ServicoCompraAplicativo.Negocio.pdb
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Negocio\bin\Debug\netstandard2.0\ServicoCompraAplicativo.Dados.dll
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Negocio\bin\Debug\netstandard2.0\ServicoCompraAplicativo.Dominio.dll
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Negocio\bin\Debug\netstandard2.0\ServicoCompraAplicativo.Dados.pdb
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Negocio\bin\Debug\netstandard2.0\ServicoCompraAplicativo.Dominio.pdb
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Negocio\obj\Debug\netstandard2.0\ServicoCompraAplicativo.Negocio.csproj.CopyComplete
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Negocio\obj\Debug\netstandard2.0\ServicoCompraAplicativo.Negocio.dll
+C:\Users\DELL\Documents\ServicoCompraAplicativo\ServicoCompraAplicativo.Negocio\obj\Debug\netstandard2.0\ServicoCompraAplicativo.Negocio.pdb
